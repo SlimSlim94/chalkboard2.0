@@ -1,5 +1,5 @@
 <h2><a href="https://chalkboard20.slimjim3094.repl.co/html/index.html">Chalkboard website(replit)</a></h2>
-<h2>Features</h2>
+<h3>Features</h3>
   login screen<br/>
    - user can login or sign up for new account<br/>
  Sign up<br/>
@@ -12,11 +12,15 @@
   - there is an images used at the home screen, dashboard, admin logo, home logo (enroll screen)<br/>
  breadcrumbs<br/>
   - as we progress through more pages there is a breadcumb trail to take you back.<br/>
+Session Management</br>
+  - if a webpage is opened in an incognito browser the user will be redirected to the login page
+Admin View </br>
+  - the admin will be able to see which users are in the database.
 <h2>Contributors</h2>
 - Sean Ramlall
 , Avishai Rostamian
 
- <h2>What we learned</h2>
+ <h3>What we learned</h3>
 
 (Sean Ramlall)
 - During this segment of the project I learned the importance of oragnizing the outline of a webpage. Now that we have an idea of what we want to do with our website it will be much easier for us to move forward and build the website to our specifications. If we did not do this part it wouldve been chaotic figuring out the flow from page to page.
